@@ -12,4 +12,10 @@ Git命令行工具使用和联系都依照[Git官方](https://git-scm.com/book/z
 
 以前完全都不知道Git分支要如何使用，这也算是终于你不了自己的Git知识吧……
 
+``` bash
+$ git add .
+$ git commit -m "new"
+$ git push origin master
+```
+
 PS. *这里测试更新的文件都是联系Haskell的函数。写完好久的了。* o(╯□╰)o
